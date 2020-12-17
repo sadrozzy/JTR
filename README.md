@@ -1,0 +1,2 @@
+# JTR
+JetBrains Trial Reset
