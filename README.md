@@ -1,11 +1,12 @@
-# JTR
-JetBrains Trial Reset
+## JetBrains Trial Reset 
 
-Work only for Windows.
+At first, works only for Windows.
 
-How to use:
+## 🔨 Getting Started
 
 Specify the product of interest in the liс_dir variable
 
-For example: lic_dir = os.path.expanduser('~\AppData\Roaming\JetBrains\PRODUCT\eval')
+## 🚧 Example: 
+
+lic_dir = os.path.expanduser('~\AppData\Roaming\JetBrains\PRODUCT\eval')
 
