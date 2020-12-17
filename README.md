@@ -1,10 +1,14 @@
-## JetBrains Trial Reset 
-
-At first, works only for Windows.
+##  JetBrains Trial Reset 
 
 ## 🔨 Getting Started
 
+At first, works only on Windows. 
+
 Specify the product of interest in the liс_dir variable
+
+For special:
+
+To start automatically, use the task scheduler and a special .exe version
 
 ## 🚧 Example: 
 
